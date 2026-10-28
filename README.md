@@ -10,7 +10,8 @@ I'm learning & building cool things
   <img src="https://img.shields.io/badge/Android-53B058?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=FF7156" alt="Rust"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/nixos-222222?style=for-the-badge&logo=nixos&logoColor=6E9DFF" alt="NixOS"/> 
+  <img src="https://img.shields.io/badge/nixos-222222?style=for-the-badge&logo=nixos&logoColor=6E9DFF" alt="NixOS"/>
+  <img src="https://img.shields.io/badge/arch-222222?style=for-the-badge&logo=archlinux&logoColor=6E9DFF" alt="Arch"/>
   <img src="https://img.shields.io/badge/niri-D55C44?style=for-the-badge&logo=niri&logoColor=white" alt="Niri"/> 
 </p>
 
